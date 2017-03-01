@@ -90,3 +90,6 @@ ENV/
 
 # data file
 data/
+
+# homefile from tensorflow
+*.home
